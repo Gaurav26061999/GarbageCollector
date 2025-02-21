@@ -1,3 +1,3 @@
 # GarbageCollector
 
-kjkk
+download zip and run
